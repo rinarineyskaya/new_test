@@ -1,0 +1,9 @@
+identifier
+summary
+description
+steps to introduce
+priority
+severity
+symptom
+comments
+attachments
